@@ -1,6 +1,6 @@
 export default {
   buildOptions: {
-    site: 'https://shopify-astro.netlify.app/',
+    site: 'https://practical-albattani-6e9bbc.netlify.app/',
   },
   renderers: ['@astrojs/renderer-react'],
 };
